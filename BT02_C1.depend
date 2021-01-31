@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612056707 source:f:\code\bt02_c7\main.cpp
+	<iostream>
+	<cmath>
+
